@@ -1,0 +1,5 @@
+//Create Migrarion
+ADD-MIGRATION MyFirstMigration
+
+//UPDATE DATABASE
+UPDATE-DATABASE
